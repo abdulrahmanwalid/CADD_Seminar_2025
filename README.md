@@ -49,7 +49,7 @@ shape-aware descriptors, plus an explicit applicability-domain check.
 
 ```bash
 pip install rdkit pandas numpy scikit-learn xgboost matplotlib seaborn scipy
-jupyter lab final_talktorial.ipynb
+jupyter lab Seminar.ipynb
 ```
 
 ## Attribution
